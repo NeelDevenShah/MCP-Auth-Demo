@@ -1,0 +1,7 @@
+fastmcp==2.2.4
+crewai==0.141.0
+mcp==1.10.1
+streamlit==1.46.1
+fastapi==0.116.0
+openai==1.93.3
+loguru==0.7.3
